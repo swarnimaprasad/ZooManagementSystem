@@ -1,5 +1,5 @@
 # ZooManagementSystem
-Application Flow:
+##Application Flow:
 
 The application will have a user-friendly command-line interface where you can enter as either an admin or a visitor.
 
@@ -7,7 +7,7 @@ Visitors can enjoy different levels of zoo experiences: "Basic," "Premium,". The
 
 Admins can manage the zoo's attractions, animals, and visitor information. They can also add special events and discounts.
 
-Admin Functionalities:
+##Admin Functionalities:
 
 Enter as Admin: Admins must provide their username and password to access all admin privileges. Make use of a constant for username and password with fixed values to be compared against.
 
@@ -32,7 +32,7 @@ View Visitor Stats: Admins can access statistics on the number of visitors, reve
 View Feedback: Admins should also be able to see the feedback left by the visitors.
 
 
-Visitor Functionalities:
+##Visitor Functionalities:
 
 Register: Visitors can register by providing their name, age, phone number, balance, email, and password.
 
