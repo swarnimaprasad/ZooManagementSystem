@@ -1,7 +1,7 @@
 # ZooManagementSystem
-##Application Flow:
+#Application Flow:
 
-The application will have a user-friendly command-line interface where you can enter as either an admin or a visitor.
+This application will have a user-friendly command-line interface where you can enter as either an admin or a visitor.
 
 Visitors can enjoy different levels of zoo experiences: "Basic," "Premium,". These levels offer varying perks and access to different areas of the zoo.
 
